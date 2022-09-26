@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @Veljko003
+- 👀 I’m interested in all things IT, but most of all - development  💞️
+- 💻 I’m fluent in:
+   - HTML
+   - CSS
+   - JavaScript
+   - PHP
+   - SQL
+   - Python
+   - C#
+   - Java
+   - Kotlin
+- 💞️🖥️ I’m looking to collaborate on any project you may need help on... 💾
+- 📫 You want to reach me ? I am always available on GitHub 😉
