@@ -11,4 +11,3 @@
    - Java
    - Kotlin
 - 💞️🖥️ I’m looking to collaborate on any project you may need help on... 💾
-- 📫 You want to reach me ? I am always available on GitHub 😉
