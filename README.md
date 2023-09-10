@@ -8,7 +8,7 @@
   <a href="https://stackoverflow.com/users/20046454/veljko03" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-orange?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow Badge"/>
   </a>
-  <a href="https://veljkospasic.rf.gd" target="_blank">
+  <a href="https://veljko-spasic.rf.gd" target="_blank">
     <img src="https://img.shields.io/badge/Veljko%20Spasic-green?style=for-the-badge" alt="My site Badge"/>
   </a>
   <a href="https://github.com/TheVSDev" target="_blank">
@@ -48,6 +48,7 @@ I am a Full Stack Developer.
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
 </div>
 
 ### Databases :
